@@ -1,2 +1,0 @@
-# nomadVJS
-Created with CodeSandbox
